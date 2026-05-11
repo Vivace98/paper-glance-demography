@@ -15,7 +15,17 @@ A three-step AI-assisted workflow for reading academic papers in demography, mig
 
 ## Repository Structure
 
-- `/skills` — reusable academic reading skills
+Paper-Glance-Demography/
+│
+├── README.md
+│
+├── skills/
+   ├── paper-matrix-extract/
+   │   └── SKILL.md
+   ├── literature-pattern-analysis/
+   │   └── SKILL.md
+   └── paper-research-core/
+      └── SKILL.md
 
 ## Intended Use
 
