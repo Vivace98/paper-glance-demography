@@ -16,8 +16,6 @@ A three-step AI-assisted workflow for reading academic papers in demography, mig
 ## Repository Structure
 
 - `/skills` — reusable academic reading skills
-- `/examples` — sample outputs
-- `/templates` — reusable matrix and reading templates
 
 ## Intended Use
 
